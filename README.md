@@ -1,3 +1,1 @@
-# Default Elm Kit
-
-
+# Updated Notes
